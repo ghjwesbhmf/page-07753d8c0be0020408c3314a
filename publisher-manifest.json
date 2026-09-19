@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "666c950f9dc1456497960762",
+  "owner": "ghjwesbhmf",
+  "repo": "page-07753d8c0be0020408c3314a",
+  "title": "森林互联(7KM)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07753d8c0be0020408c3314a",
+      "a": "森林互联(7KM)",
+      "b": "最新6折优惠码",
+      "entity": "森林互联(7KM)",
+      "brand": "森林互联(7KM)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ee8306c7c196c3bdcb5cc14ed2a5589acb8d5d08ad23c7652111792a43f62b75",
+      "content": {
+        "primary_entity": "森林互联(7KM)",
+        "keyword1": "森林互联(7KM)",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 与路由器均有对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比基础版、旗舰版与团队版，按设备数和流量需求选择订阅周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_DESCRIPTION": "，森林互联(7KM)提供基础版、旗舰版与团队版三档订阅方案，分别对应 3 台、5 台和 20 台设备同时在线，月付分别为 ¥15、¥35、¥85。年付方案分别为 ¥150/年、¥350/年与 ¥850/年，流量从每月 100GB 到 1000GB 不等。旗舰版额外提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版满足企业定制路由需求。选择时可根据设备数量与日常流量用量匹配对应版本。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个要点展开。",
+          "AI_FEATURES_TITLE": "功能特点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月适合单人使用，旗舰版 ¥35/月兼顾速度与多设备，团队版 ¥85/月满足高流量需求。",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台，可按手机、电脑与路由器数量选择。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付方案分别为 ¥150/年、¥350/年与 ¥850/年，长期使用可选年付周期。",
+          "AI_FEATURE_TITLE_1": "套餐对比",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "森林互联(7KM)提供多档海外加速订阅方案，覆盖基础版、旗舰版与团队版，适合不同设备数量和流量需求的用户。基础版月付 ¥15 起，旗舰版月付 ¥35 起，团队版月付 ¥85 起。",
+          "AI_HERO_SUBTITLE": "森林互联(7KM)多档订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "年付方案低至每月约 ¥12.5",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备；团队版每月 1000GB 流量、20 台设备。年付分别 ¥150/年、¥350/年与 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量用量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的同时在线设备数，确认手机、电脑或路由器是否满足。",
+          "AI_STEP_TEXT_3": "安装对应客户端，按森林互联(7KM)提供的订阅配置说明导入使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "森林互联(7KM)订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合手机或电脑单人多设备使用。旗舰版支持5台，团队版支持20台，多设备家庭或办公环境建议选更高档位。",
+          "AI_FAQ_ANSWER_2": "可以。按年付只需支付十个月费用，基础版¥150/年，旗舰版¥350/年，团队版¥850/年，比按月购买更划算。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点，旗舰版包含全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版使用VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "先确认设备数量与月流量需求，再参照客户端文档下载对应版本，导入订阅后即可连接使用，无需额外配置。",
+          "AI_FAQ_ANSWER_5": "7KM支持7x24优先工单支持，旗舰版与团队版可优先响应，团队版还配有专属客户经理跟进需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付费用有区别吗？",
+          "AI_FAQ_QUESTION_3": "不同套餐的节点线路有什么不同？",
+          "AI_FAQ_QUESTION_4": "第一次使用需要做什么准备？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9120f3d72dd6eb1a2cacfb2097eae8036fe0666c7d92588f94fc5e235336f87a",
+    "sitemap.xml": "c84ebe3cc91aba4ee5a007b7e96876f04679263ad6d4cf2ba8523e735d1a03e2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "fe58baa8a8ced8459b4346ba86c7b56933f35df3c1adcb069edfcf3eb0498cbb"
+}
